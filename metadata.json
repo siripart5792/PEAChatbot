@@ -1,0 +1,5 @@
+{
+  "name": "PEA Safety Smart System",
+  "description": "An application that embeds a Microsoft Copilot Studio bot.",
+  "requestFramePermissions": []
+}
